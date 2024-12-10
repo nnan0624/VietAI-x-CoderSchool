@@ -28,3 +28,4 @@ print(combined_task)
 marital_status_filter = data[data['marital_status'].isin(['Married', 'Divorced'])]
 print("\nTask 5: Khách hàng đã kết hôn hoặc đã ly hôn")
 print(marital_status_filter)
+
